@@ -1,4 +1,5 @@
-## Hi there 👋
+👋Hi there
+🧙I'm ShiuKimBlue AKA 大魔导师金蓝酱
 
 <!--
 **ShiuKimBlue/ShiuKimBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🪄Spells and magical instruments🔮 魔咒与法器
+<img width="1920" height="1080" alt="Python" src="https://github.com/user-attachments/assets/d5326103-1bce-4f25-acd0-72a18aa806fd" />
