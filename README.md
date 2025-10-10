@@ -1,5 +1,6 @@
 👋Hi there
 🧙I'm ShiuKimBlue AKA 大魔导师金蓝酱
+坚信AI将深刻变革整个世界
 
 <!--
 **ShiuKimBlue/ShiuKimBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
