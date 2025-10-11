@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🪄Spells and magical instruments🔮 魔咒与法器
+🪄Spells and magical instruments🔮 法术与法器
 <img width="1920" height="1080" alt="Python" src="https://github.com/user-attachments/assets/d5326103-1bce-4f25-acd0-72a18aa806fd" />
