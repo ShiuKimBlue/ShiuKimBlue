@@ -1,6 +1,7 @@
 👋Hi there
 🧙I'm ShiuKimBlue AKA 大魔导师金蓝酱
-坚信AI将深刻变革整个世界
+
+成功并非偶然，它是努力、坚持、学习、牺牲和最重要的，热爱所做之事的结果。
 
 <!--
 **ShiuKimBlue/ShiuKimBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
