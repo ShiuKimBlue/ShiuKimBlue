@@ -1,5 +1,6 @@
 <div align="center">
   
+---
 # 👋 你好，旅行者 Welcome, Traveler
 
 ###  I'm ShiuKimBlue AKA 大魔导师金蓝酱
