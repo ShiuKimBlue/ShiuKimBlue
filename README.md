@@ -1,77 +1,75 @@
-# 👋 Hi there, I'm ShiuKimBlue
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-</p>
-
 <div align="center">
   
-**🧙 I'm ShiuKimBlue, AKA 大魔导师金蓝酱 🧙**
+# 👋 你好，旅行者 Welcome, Traveler
 
-*成功并非偶然，它是努力、坚持、学习、牺牲和最重要的，热爱所做之事的结果。*
+###  I'm ShiuKimBlue AKA 大魔导师金蓝酱
 
-</div>
+*在这个时代，最强大的魔法并非火焰与冰霜，而是精准的“咒语”（Prompts）。*
+
+*我精通撰写和编排这些咒语，以此召唤、构筑并指挥强大的心智造物——AI Agents。*
 
 ---
 
-### 🪄 我的法术与法器 (My Spells & Instruments) 🔮
+## 🧙‍♂️ About This Wizard | 关于本魔导师
 
-这里是我日常施法（编码）时使用的技术。
-
-<p align="left">
-  <!-- 主力法术 (Primary Spells) -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <!-- 附魔框架 (Enchanting Frameworks) -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <!-- 召唤法阵 (Summoning Circles - DevOps/DB) -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-<br/>
-
-*   🔭 **正在铸造 (Currently Forging):** 一个基于 Next.js 的个人博客系统。
-*   🌱 **正在研习 (Currently Learning):** Go 语言的并发“咒语”和 Rust 的内存“炼金术”。
-*   💬 **请教于我 (Ask me about):** 关于 JavaScript/TypeScript 的奇技淫巧，或是如何从零开始搭建一个 Web 应用。
-*   📫 **魔法传信 (How to reach me):** [your-email@example.com](mailto:your-email@example.com)
+ 🧪 **专精领域**: AI Agent 应用开发 & 提示词工程
+ 
+ 📜 **研究方向**: 智能体应用 & RAG 系统
+ 
+ 🌱 **探索中**: 多智能体协作 & 上下文工程
+ 
+ 💡 **魔法理念**: 将复杂的 AI 能力转化为可用的应用魔法
+ 
+ ⚡ **有趣的事实**: 神经网络幻觉就是信息势垒中的语义隧穿
 
 ---
 
-### 📜 我的魔法卷轴 (My Magic Scrolls) 📜
+## ✨ Spell Arsenal | 法术库
 
-这些卷轴实时记录着我在 GitHub 王国的冒险。
+![Python](https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/📝_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<div align="center">
-  
-[![ShiuKimBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiuKimBlue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiuKimBlue&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-</div>
+## 🔮 Magical Instruments | 法器库
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShiuKimBlue&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
+### 🧠 LLM 巨石碑，魔力之源
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-181818?style=for-the-badge)
+
+### ⚗️ AI Agent 框架，编排咒语链和魔法构图的图谱
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/🔍_LangSmith-00A67E?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/🤖_AutoGen-0078D4?style=for-the-badge)
+
+### 🪄 魔法杖 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+###  容器
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📚 向量法阵，存储和检索海量记忆碎片的异次元空间
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+---
+
+## 📜 Grimoire Collection | 魔法书收藏
+
+```mermaid
+mindmap
+  root((AI Agent<br/>魔导师))
+    提示词工程
+      Prompt 模板库
+      Few-shot 案例集
+      CoT 思维链
+    Agent 应用
+      Multi-Agent 系统
+      工作流编排
+      RAG 增强
+    工具开发
+      自定义 Tools
+      API 集成
+      监控调试
