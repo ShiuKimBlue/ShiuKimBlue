@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🪄Spells and magical instruments🔮 法术与法器
-<img width="1920" height="1080" alt="Python" src="https://github.com/user-attachments/assets/d5326103-1bce-4f25-acd0-72a18aa806fd" />
-<img width="1920" height="1080" alt="VisualStudioCode" src="https://github.com/user-attachments/assets/ec6e6d5e-415a-4976-ac2a-b49b522ce475" />
+
 <img width="1920" height="1080" alt="GitHub" src="https://github.com/user-attachments/assets/b05d923e-e6ab-49d0-ab7b-7141bf6f389b" />
