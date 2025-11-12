@@ -55,21 +55,3 @@
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
 ---
-
-## 📜 Grimoire Collection | 魔法书收藏
-
-```mermaid
-mindmap
-  root((AI Agent<br/>魔导师))
-    提示词工程
-      Prompt 模板库
-      Few-shot 案例集
-      CoT 思维链
-    Agent 应用
-      Multi-Agent 系统
-      工作流编排
-      RAG 增强
-    工具开发
-      自定义 Tools
-      API 集成
-      监控调试
